@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ibrahim AKINCI
-- 👀 I’m interested in = java
+- 👀 I’m interested in = java, HTML, css
 - 🌱 I’m currently learning = java, css, HTML, javascript
 - 📫 How to reach me = Soon
 - ⚡ Fun fact: ...
